@@ -1,7 +1,9 @@
 # lbonanomi uses and recommends:
 
 ## Chrome Plugins
-* [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
+* [Edit This Cookie]
+
+[Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
 
 ## Jira Management Tools
 * [Jira Comment Toolbox](https://marketplace.atlassian.com/apps/1214301/comment-toolbox-for-jira)  
