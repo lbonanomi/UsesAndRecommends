@@ -1,6 +1,6 @@
 # [lbonanomi](https://github.com/lbonanomi) uses and recommends:
 
-I'm a pragmatic worker-bee, not an open source purist. These are some of the tools & platforms that I use daily and that I can't give a Github star to:
+I'm a pragmatic worker-bee, not an open source purist. These are some of the tools & platforms that I employ on-the-regular:
 
 ### Chrome Plugins:
 * [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en): Edit, export, or delete cookie data.  
@@ -9,7 +9,7 @@ I'm a pragmatic worker-bee, not an open source purist. These are some of the too
 
 ### Jira Management Tools:
 * [Jira Comment Toolbox](https://marketplace.atlassian.com/apps/1214301/comment-toolbox-for-jira): Bulk edit Jira comments by rule, *safely* alter comment authorship.  
-* [ScriptRunner](https://marketplace.atlassian.com/apps/6820/scriptrunner-for-jira): For everything-else.  
+* [ScriptRunner](https://marketplace.atlassian.com/apps/6820/scriptrunner-for-jira): For almost anything.  
 * [User Management for Jira](https://marketplace.atlassian.com/apps/1215285/user-management-for-jira): Bulk surveillance and management of Jira users.  
 
 ### Platforms:
