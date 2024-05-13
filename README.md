@@ -1,6 +1,7 @@
 # [lbonanomi](https://github.com/lbonanomi) uses and recommends:
 
-I'm a pragmatic worker-bee, not an open source purist. These are some of the tools & platforms that I use daily and that I can't give a Github star to:
+I'm a pragmatic worker-bee, not an open source purist.  
+These are some of the tools & platforms that I use daily and that I might not be able to give a Github star to:
 
 ### Chrome Plugins:
 * [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en): Edit, export, or delete cookie data.  
