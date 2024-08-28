@@ -15,4 +15,5 @@ These are some of the tools & platforms that I use daily and that I might not be
 
 ### Platforms:
 * [Okta](https://www.okta.com/): I love Okta's OIDC apps with AWS Application Load Balancers for adding conditional security to hosted apps.    
-* [endoflife.date](https://endoflife.date/): If I had 3 wishes granted they would be world peace, a _realy_ first-class BLT sandwhich, and an API to test if a Windows version was in-support; I get one of these.  
+* [endoflife.date](https://endoflife.date/): If I had 3 wishes granted they would be world peace, a _realy_ first-class BLT sandwhich, and an API to test if a Windows version was in-support; I get one of these.
+* [Vercel](https://vercel.com/): Serverless and Redis for free!  
