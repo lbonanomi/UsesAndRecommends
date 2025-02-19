@@ -4,7 +4,7 @@ I'm a pragmatic worker-bee, not an open source idealist.
 These are some of the tools & platforms that I use daily and that I might not be able to give a Github star to:
 
 ### Chrome Plugins:
-* [Edit This Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en): Edit, export, or delete cookie data.  
+* [Edit This Cookie](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol?hl=en): Edit, export, or delete cookie data.  
 * [rockstar](https://chrome.google.com/webstore/detail/rockstar/chjepkekmhealpjipcggnfepkkfeimbd): Bulk export of Okta data.  
 * [User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg): Set an arbitrary *User-Agent* header in Chrome. **HINT**: set your User-Agent string to *Jakarta Commons-HttpClient* and watch how many SAML redirects stop.  
 
